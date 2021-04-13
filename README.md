@@ -16,11 +16,11 @@ Our app, Expiry, will allow users to track the expiration date of their food ite
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Utilities / Productivity
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Mobile:** Entering food expiration dates on the computer is a hassle when compared to entering it on your smart phone where the food can be right next to you while entering it. Our app produces a mobile first experience and makes use of the camera and convenience of a smartphone. 
+- **Story:** Over 80 billion pounds of food is thrown away in the US alone which causes food to be the largest component taking up space in US landfills. This app provides people with the opportunity be less wasteful of their food products.
+- **Market:** Anyone that wants to alleviate less waste and be more mindful of the environment would love this app. More people are turning to eco-friendly ideas and this is one that can stand out amongst all of them. We believe that the size and scale of this app is huge. 
+- **Habit:** A user can use this app multiple times throughout the day. Whether it be to add more food items or to check on previously added ones. This can be very habit forming as whenever a user gets a food item, an instinct can be made to enter it into the app.
+- **Scope:** This app should not be too technically challenging. A lot of it follows the frameworks of the apps we have previously built. This app will be interesting to build regardless of what version it is. We feel as if this product is extremely defined. 
 
 ## Product Spec
 
