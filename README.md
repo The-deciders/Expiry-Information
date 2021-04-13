@@ -15,7 +15,7 @@ Our app, Expiry, will allow users to track the expiration date of their food ite
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
+- **Category:** Utilities / Productivity
 - **Mobile:**
 - **Story:**
 - **Market:**
