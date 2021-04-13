@@ -14,7 +14,6 @@ Original App Design Project - README Template
 Our app, Expiry, will allow users to track the expiration date of their food items. The user can manually enter food items or possibly, through a QR Code Scanner, can enter it that way. It would then ask for the expiration date and log it. Custom reminders can be set days prior to the expiration date. This app will help people be less wasteful.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Utilities / Productivity
 - **Mobile:** Entering food expiration dates on the computer is a hassle when compared to entering it on your smart phone where the food can be right next to you while entering it. Our app produces a mobile first experience and makes use of the camera and convenience of a smartphone. 
 - **Story:** Over 80 billion pounds of food is thrown away in the US alone which causes food to be the largest component taking up space in US landfills. This app provides people with the opportunity be less wasteful of their food products.
