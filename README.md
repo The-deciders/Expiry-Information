@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Our app, Expiry, will allow users to track the expiration date of their food items. The user can manually enter food items or possibly, through a QR Code Scanner, can enter it that way. It would then ask for the expiration date and log it. Custom reminders can be set days prior to the expiration date. This app will help people be less wasteful.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
