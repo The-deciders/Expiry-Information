@@ -41,12 +41,25 @@ Our app, Expiry, will allow users to track the expiration date of their food ite
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen - User can login to their account
+   * User logs into their account to access their food lists and preference settings
+   * User is asked for username and password
+* Register Screen – User can sign up for an account
+   * User is not required to re-login every time app is closed. 
+   * Asks for username, email, and password 
+* Food Screen
+   * User can view the foods they have listen and click into it to get more specific details
+   * User can view the food in a 4x4 view
+   * Expiration date and name of item are both viewable
+* Detailed Food Screen
+   * User can click into an item in the food screen
+   * Expiration date and other information can be viewed here
+* Calendar Screen
+   * User can view the foods that are going to expire soon (time depends on user preference)
+* Settings Screen
+   * User can change notification settings, time for calendar, etc
+* Profile Screen
+   * User can upload a profile picture and view their profile information
 
 ### 3. Navigation
 
