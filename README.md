@@ -76,12 +76,12 @@ Optional:
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Profile -> Profile screen where profile picture can be uploaded
+* Settings -> Settings screen where settings can be toggled
+* Log-in -> If log-in is incorrect, log-in screen will be brought to user / if correct, food screen appears
+* Register -> Register screen where if registration is successful, login screen is shown
+* Calendar -> Calendar screen
+* Food Screen -> When food item is tapped, detailed food screen is shown
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
