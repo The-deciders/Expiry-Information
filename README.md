@@ -65,9 +65,14 @@ Our app, Expiry, will allow users to track the expiration date of their food ite
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Settings
+* Profile
+* Calendar
+* Food List
+
+Optional:
+* Friends
+
 
 **Flow Navigation** (Screen to Screen)
 
