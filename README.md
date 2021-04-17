@@ -84,12 +84,7 @@ Optional:
 * Food Screen -> When food item is tapped, detailed food screen is shown
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+<img src="wireframe.jpeg" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
