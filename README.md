@@ -90,6 +90,30 @@ Optional:
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+#### User
+
+| Property | Type | Description |
+| :----------- | :-----------: | -----------: |
+| UserId   | string | unique id for user |
+| FirstName | string | the user's first name |
+| LastName | string | the user's last name |
+| UserName | string | the user's username |
+| EmailAddress | string | the user's email address |
+| Password | string | the user's password |
+
+#### Post
+
+| Property | Type | Description |
+| :----------- | :-----------: | -----------: |
+| ObjectId | string | unique id for post |
+| author | Pointer to User | UserId |
+| foodItem | string | the food uploaded by user manually |
+| CreatedAt | DateTime | date when post is created  |
+| UpdatedAt | DateTime | date when post is last updated  |
+| ExpirationDate | DateTime | date when foodItem expires |
+
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
