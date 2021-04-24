@@ -87,9 +87,9 @@ Optional:
 <img src="wireframe.jpeg" width=600>
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+
 #### User
 
 | Property | Type | Description |
