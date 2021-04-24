@@ -115,6 +115,21 @@ Optional:
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Login Screen
+   * (Login/POST) Login information
+* Register Screen  User can sign up for an account
+   * (POST/Create)  New user information 
+* Food Screen
+   * (Read/GET) Query all food items where user is author
+* Detailed Food Screen
+   * (Read/GET) Dates of expiration
+   * (Create/POST) New dates of expiration
+   * (Delete) Existing expiration
+* Calendar Screen
+   * (Read/GET) Dates of expiration
+* Settings Screen
+   * (Read/GET) Existing notification and calendar settings
+   * (Update/PUT) New calendar settings
+* Profile Screen
+   * (Update/PUT) Update profile image
+   * (Read/GET) Query logged in user info
