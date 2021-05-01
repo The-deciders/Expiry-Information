@@ -113,7 +113,6 @@ Optional:
 | ExpirationDate | DateTime | date when foodItem expires |
 
 
-
 ### Networking
 * Login Screen
    * (Login/POST) Login information
@@ -133,3 +132,9 @@ Optional:
 * Profile Screen
    * (Update/PUT) Update profile image
    * (Read/GET) Query logged in user info
+
+
+### GIF
+
+![Part 1](https://user-images.githubusercontent.com/74890931/116768786-4db2f980-aa07-11eb-8895-ebe6ae92773d.gif)
+
